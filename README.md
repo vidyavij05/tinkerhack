@@ -23,3 +23,7 @@ This function saves the current user_data dictionary to the user_data.json file.
 3. predict_cycle(username)
 This function predicts the user's next period and ovulation date based on the last period start date and cycle length. It returns a formatted string with the results.4. provide_reminders(username)
 This function provides reminders for the user's next period and ovulation date. It checks if the required data is available and returns a formatted reminder string.
+Conclusion
+The Periods Tracker Chatbot is a useful tool for users to manage their menstrual health. By combining date predictions, health tips, and reminders in an interactive chat format, it aims to provide a personalized experience for tracking menstrual cycles.
+
+Users can easily extend its functionality or modify the health tips as needed, making it a flexible solution for menstrual health management.
