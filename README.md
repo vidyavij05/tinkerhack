@@ -27,3 +27,6 @@ Conclusion
 The Periods Tracker Chatbot is a useful tool for users to manage their menstrual health. By combining date predictions, health tips, and reminders in an interactive chat format, it aims to provide a personalized experience for tracking menstrual cycles.
 
 Users can easily extend its functionality or modify the health tips as needed, making it a flexible solution for menstrual health management.
+
+
+
